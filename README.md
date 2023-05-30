@@ -12,6 +12,5 @@ Pokedex built with SwiftUI
   </tr>
   <tr>
     <td><image src= "https://mgill42.github.io/images/Pokedex/IMG_1950.PNG" width="500"></td>
-    <td><image src= "https://mgill42.github.io/images/Pokedex/IMG_1951.PNG" width="500"></td>
   </tr>
 </table>
